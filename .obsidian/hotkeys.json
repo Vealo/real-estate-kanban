@@ -14,5 +14,23 @@
       ],
       "key": "M"
     }
+  ],
+  "editor:insert-horizontal-rule": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "H"
+    }
+  ],
+  "editor:insert-codeblock": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "M"
+    }
   ]
 }
