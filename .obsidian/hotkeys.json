@@ -42,6 +42,12 @@
         "Shift"
       ],
       "key": "T"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad0"
     }
   ],
   "editor:insert-tag": [
@@ -132,6 +138,30 @@
         "Shift"
       ],
       "key": "Backspace"
+    }
+  ],
+  "editor:table-col-align-left": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad1"
+    }
+  ],
+  "editor:table-col-align-center": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad2"
+    }
+  ],
+  "editor:table-col-align-right": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad3"
     }
   ]
 }
