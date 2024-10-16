@@ -4,233 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "ab172454785771c7",
+        "id": "7933577dbea87f7b",
         "type": "tabs",
         "children": [
           {
-            "id": "063e75340ec02f73",
+            "id": "dcac6fa6db9f3d94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/M-4 Добавить квартиры на сайт.md",
+                "file": "Cards/M-37 Добавить возможность получать код авторизации.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "17f2598a8e5f82bd",
+            "id": "9add98bdde6eb54f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/M-5 Написать API для получения квартир.md",
+                "file": "Cards/M-29 Внедрить postgresql.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4e8cc24b39d55152",
+            "id": "832193d71b378faa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/M-6 Добавить swagger.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd64291c537742f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/M-6 Добавить swagger.md",
+                "file": "Cards/M-40 Добавить форматтер (black, isort).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4042094e98378899",
+            "id": "bf7b2fce89edb1eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/M-8 Добавить API для получения информации по этажу.md",
+                "file": "Cards/M-37 Добавить возможность получать код авторизации.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "36e1f4f4d16eda05",
+            "id": "853cfd35338510a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
-              "state": {
-                "file": "Cards/M-8 Добавить API для получения информации по этажу.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9fe54b4ce7ab1314",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/M-8 Добавить API для получения информации по этажу.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c210b069d4e8f08d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/M-10 Добавить корпусы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5cfabed6da635fe9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/M-9 Добавить секцииазвания.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac1f89749fad9d42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/M-13 Написать API для получения проектов.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3dd834300b4b4532",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/M-12 Добавить проекты.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5b5bef833c18a0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/M-12 Добавить проекты.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a44c6e7ed30cece",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/M-14 Добавить админку для квартир.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff8e10ff3d1b48b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/M-17 Добавить админку для квартир.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11eab9440beffac1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/M-17 Добавить админку для квартир.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69f0ee2e45c453df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/M-18 Добавить админку для корпусов.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c78f9be586ea6401",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/M-17 Добавить админку для квартир.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "348d556f476aaac9",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
               "state": {
                 "file": "Real-eastate-kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "mode": "preview",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -260,7 +98,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -280,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 306.5
   },
   "right": {
     "id": "b7e48c17c7bf7dc0",
@@ -388,35 +226,35 @@
       "obsidian-kanban:Создать новую доску": false
     }
   },
-  "active": "348d556f476aaac9",
+  "active": "853cfd35338510a2",
   "lastOpenFiles": [
+    "Cards/M-42 Создать микросервис для взаимодействия с основным сервисом.md",
+    "Cards/M-37 Добавить возможность получать код авторизации.md",
+    "Cards/M-41 Написать makefile для форматтера и линтера.md",
+    "Cards/M-40 Добавить форматтер (black, isort).md",
+    "Cards/M-29 Внедрить postgresql.md",
+    "Cards/M-39 Добавить линтер (flake8).md",
+    "Cards/M-38 Добавить возможность авторизоваться через код.md",
+    "Cards/M-31 Написать docker-compose файл для поднятия приложения + БД.md",
     "Cards/M-21 Добавить возможность добавлять картинки для корпуса.md",
+    "Cards/M-36 Добавить коды авторизации.md",
     "Cards/M-17 Добавить админку для квартир.md",
+    "Cards/M-35 Добавить бэкенд для аутетификации.md",
     "Cards/M-20 Добавить возможность добавлять картинки для квартир.md",
-    "Cards/M-18 Добавить админку для корпусов.md",
-    "Cards/M-19 Добавить админку для проектов.md",
-    "Cards/M-13 Написать API для получения проектов.md",
-    "Cards/M-14 Добавить админку для квартир.md",
-    "Cards/M-16 Добавить админку для секций.md",
-    "Cards/M-12 Добавить проекты.md",
+    "Cards/M-34 Добавить пользователя в админку.md",
     "Cards/M-15 Добавить админку для этажей.md",
-    "Cards/M-9 Добавить секцииазвания.md",
-    "Cards/M-10 Добавить корпусы.md",
-    "Cards/M-11 Написать API для получения корпусов.md",
+    "Cards/M-33 Добавить клиента (пользователя) на сайт.md",
     "Cards/M-8 Добавить API для получения информации по этажу.md",
-    "HELP.md",
-    "Cards/M-7 Добавить этажи.md",
-    "Cards/M-6 Добавить swagger.md",
-    "Real-eastate-kanban.md",
+    "Cards/M-32 Добавить приложение account.md",
+    "Cards/M-18 Добавить админку для корпусов.md",
+    "Cards/M-23 Внедрить паттерн Repository.md",
+    "Cards/М-30 Написать Dockerfile для основного приложения.md",
+    "Cards/M-22 Добавить возможность добавлять картинки для проектов.md",
+    "Cards/M-28 Написать тесты для проектов.md",
+    "Cards/M-27 Написать тесты для корпусов.md",
+    "Cards/M-19 Добавить админку для проектов.md",
+    "Cards/M-24 Написать тесты для квартир.md",
     "Без названия",
-    "Cards/M-5 Написать API для получения квартир.md",
-    "Cards/M-4 Добавить квартиры на сайт.md",
-    "Cards/M-1 Создать проект.md",
-    "Cards/М-2 Добавить DRF в проект.md",
-    "Cards/M-3 Добавить приложение realty. Подготовить архитектуру.md",
-    "Real-eastate-list.md",
-    "README.md",
-    "KANBAN.md",
     "Cards",
     "Без названия/Django_4_v_primerakh.pdf",
     "Без названия/sql_primer.pdf",
