@@ -2,15 +2,17 @@
   "editor:toggle-code": [
     {
       "modifiers": [
-        "Mod"
+        "Alt",
+        "Shift"
       ],
-      "key": "'"
+      "key": "X"
     }
   ],
   "editor:insert-mathblock": [
     {
       "modifiers": [
-        "Mod"
+        "Alt",
+        "Shift"
       ],
       "key": "M"
     }
@@ -30,7 +32,25 @@
         "Alt",
         "Shift"
       ],
-      "key": "M"
+      "key": "K"
+    }
+  ],
+  "editor:insert-table": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ],
+  "editor:insert-tag": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "Z"
     }
   ]
 }
