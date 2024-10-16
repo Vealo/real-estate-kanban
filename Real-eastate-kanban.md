@@ -14,10 +14,18 @@ kanban-plugin: board
 - [ ] [M-6 Добавить swagger](Cards/M-6%20Добавить%20swagger.md)
 
 
+## In progress
+
+
+
+## Done
+
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false]}
 ```
 %%
