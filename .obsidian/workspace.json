@@ -8,18 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "20c1578d8322e543",
+            "id": "a77a13920903b08d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "189ce6ec55d42efb",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Real-eastate-kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
+              }
+            }
+          },
+          {
+            "id": "ff111cc586bffe43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Real-eastate-list.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Real-eastate-list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Real-eastate-list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Real-eastate-list.md"
               }
             }
           },
@@ -177,10 +204,15 @@
       "obsidian-kanban:Создать новую доску": false
     }
   },
-  "active": "20c1578d8322e543",
+  "active": "ff111cc586bffe43",
   "lastOpenFiles": [
-    "HELP.md",
+    "Real-eastate-kanban.md",
+    "Real-eastate-list.md",
     "README.md",
+    "HELP.md",
+    "KANBAN.md",
+    "Безымянная Kanban-доска.md",
+    "Безымянная Kanban-доска 1.md",
     "Cards",
     "Без названия/Django_4_v_primerakh.pdf",
     "Без названия/sql_primer.pdf",

@@ -227,5 +227,14 @@
       ],
       "key": "Numpad9"
     }
+  ],
+  "open-with-default-app:open": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "O"
+    }
   ]
 }
