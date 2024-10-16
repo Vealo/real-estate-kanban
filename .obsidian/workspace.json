@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -148,12 +149,21 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "ac3f4e018769429b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -168,7 +178,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "945626301980d986",
+  "active": "9c39992b3bf8e902",
   "lastOpenFiles": [
     "README.md",
     "Без названия/Django_4_v_primerakh.pdf",
