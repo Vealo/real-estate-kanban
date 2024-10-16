@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO DO.md",
+                "file": "Cards/М-2 Добавить DRF в проект.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TO DO"
+              "title": "М-2 Добавить DRF в проект"
             }
           }
         ],
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 200
   },
   "right": {
     "id": "b7e48c17c7bf7dc0",
@@ -212,7 +212,11 @@
   },
   "active": "9f3e728b619e9c5b",
   "lastOpenFiles": [
+    "Cards/M-1 Создать проект.md",
+    "Cards/М-2 Добавить DRF в проект.md",
+    "HELP.md",
     "README.md",
+    "Real-eastate-kanban.md",
     "TO DO.md",
     "Cards/M-52 Добавить Celery.md",
     "Cards/M-51 Написать тесты для бронирования.md",
@@ -234,10 +238,6 @@
     "Cards/M-35 Добавить бэкенд для аутетификации.md",
     "Cards/M-34 Добавить пользователя в админку.md",
     "Cards/M-33 Добавить клиента (пользователя) на сайт.md",
-    "Cards/M-32 Добавить приложение account.md",
-    "Cards/M-31 Написать docker-compose файл для поднятия приложения + БД.md",
-    "Cards/M-29 Внедрить postgresql.md",
-    "Cards/M-28 Написать тесты для проектов.md",
     "Без названия",
     "Cards",
     "Без названия/Django_4_v_primerakh.pdf",
