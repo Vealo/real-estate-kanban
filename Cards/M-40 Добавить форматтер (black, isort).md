@@ -1,2 +1,3 @@
 # M-40: Добавить форматтер (black, isort)
-#everyone #tech q
+#everyone #tech 
+Добавить описание
