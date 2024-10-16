@@ -2,5 +2,6 @@
   "dataview",
   "templater-obsidian",
   "obsidian-git",
-  "calendar"
+  "calendar",
+  "obsidian-kanban"
 ]
