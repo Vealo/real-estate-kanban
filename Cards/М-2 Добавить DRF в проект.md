@@ -1,2 +1,3 @@
 # М-2: Добавить DRF в проект
-#everyone #tech
+#everyone #tech #DRF
+Добавить описание

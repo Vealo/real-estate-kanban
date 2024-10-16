@@ -97,14 +97,98 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/M-45 Добавить кафку.md",
+                "file": "Cards/M-33 Добавить клиента (пользователя) на сайт.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3c1f4128fdfd56d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/M-46 Добавить в проекты необходимую библиотеку для работы с кафкой.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0919146f3b1662d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/M-33 Добавить клиента (пользователя) на сайт.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bfaef34f837ae286",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/M-48 Добавить модель для бронирования.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ceceaaae29182d90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/M-40 Добавить форматтер (black, isort).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf75d1f199ec7d59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/M-43 Написать Dockerfile к микросервису на FastAPI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63d8618bb0565725",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/M-47 Добавить приложение для бронирования.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb8054a0bd526e9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/М-30 Написать Dockerfile для основного приложения.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -170,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/M-45 Добавить кафку.md",
+                "file": "Cards/М-30 Написать Dockerfile для основного приложения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/M-45 Добавить кафку.md",
+                "file": "Cards/М-30 Написать Dockerfile для основного приложения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/M-45 Добавить кафку.md"
+                "file": "Cards/М-30 Написать Dockerfile для основного приложения.md"
               }
             }
           },
@@ -247,8 +331,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -262,34 +345,34 @@
       "obsidian-kanban:Создать новую доску": false
     }
   },
-  "active": "55b13b9679357ba1",
+  "active": "fb8054a0bd526e9f",
   "lastOpenFiles": [
-    "Cards/M-37 Добавить возможность получать код авторизации.md",
+    "Cards/М-2 Добавить DRF в проект.md",
+    "Cards/М-30 Написать Dockerfile для основного приложения.md",
+    "Cards/M-1 Создать проект.md",
+    "Cards/M-3 Добавить приложение realty. Подготовить архитектуру.md",
+    "Cards/M-4 Добавить квартиры на сайт.md",
+    "Cards/M-5 Написать API для получения квартир.md",
+    "Cards/M-6 Добавить swagger.md",
+    "Cards/M-7 Добавить этажи.md",
+    "Cards/M-8 Добавить API для получения информации по этажу.md",
+    "Cards/M-9 Добавить секцииазвания.md",
+    "Cards/M-10 Добавить корпусы.md",
+    "Cards/M-52 Добавить Celery.md",
+    "Cards/M-47 Добавить приложение для бронирования.md",
+    "Cards/M-51 Написать тесты для бронирования.md",
+    "Cards/M-43 Написать Dockerfile к микросервису на FastAPI.md",
+    "Cards/M-50 Дополнить API с квартирами информацией о бронировании.md",
+    "Cards/M-40 Добавить форматтер (black, isort).md",
+    "Cards/M-49 Добавить возможность забронировать квартиру.md",
+    "Cards/M-48 Добавить модель для бронирования.md",
+    "Cards/M-33 Добавить клиента (пользователя) на сайт.md",
+    "Cards/M-46 Добавить в проекты необходимую библиотеку для работы с кафкой.md",
     "Cards/M-45 Добавить кафку.md",
+    "Cards/M-37 Добавить возможность получать код авторизации.md",
     "Cards/M-44 Добавить сервис на FastAPI в общий docker-compose файл.md",
     "Cards/M-26 Написать тесты для секций.md",
-    "Cards/M-43 Написать Dockerfile к микросервису на FastAPI.md",
     "Cards/M-35 Добавить бэкенд для аутетификации.md",
-    "README.md",
-    "Real-eastate-kanban.md",
-    "Cards/M-42 Создать микросервис для взаимодействия с основным сервисом.md",
-    "Cards/M-41 Написать makefile для форматтера и линтера.md",
-    "Cards/M-40 Добавить форматтер (black, isort).md",
-    "Cards/M-29 Внедрить postgresql.md",
-    "Cards/M-39 Добавить линтер (flake8).md",
-    "Cards/M-38 Добавить возможность авторизоваться через код.md",
-    "Cards/M-31 Написать docker-compose файл для поднятия приложения + БД.md",
-    "Cards/M-21 Добавить возможность добавлять картинки для корпуса.md",
-    "Cards/M-36 Добавить коды авторизации.md",
-    "Cards/M-17 Добавить админку для квартир.md",
-    "Cards/M-20 Добавить возможность добавлять картинки для квартир.md",
-    "Cards/M-34 Добавить пользователя в админку.md",
-    "Cards/M-15 Добавить админку для этажей.md",
-    "Cards/M-33 Добавить клиента (пользователя) на сайт.md",
-    "Cards/M-8 Добавить API для получения информации по этажу.md",
-    "Cards/M-32 Добавить приложение account.md",
-    "Cards/M-18 Добавить админку для корпусов.md",
-    "Cards/M-23 Внедрить паттерн Repository.md",
     "Без названия",
     "Cards",
     "Без названия/Django_4_v_primerakh.pdf",

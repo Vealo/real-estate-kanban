@@ -1,2 +1,3 @@
 # M-6: Добавить swagger
-#everyone #tech 
+#everyone #tech #swagger
+Использовать drf_spectacular
