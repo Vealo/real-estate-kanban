@@ -173,7 +173,6 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false
     }
