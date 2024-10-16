@@ -4,191 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7933577dbea87f7b",
+        "id": "0f75de47403b95ed",
         "type": "tabs",
         "children": [
           {
-            "id": "dcac6fa6db9f3d94",
+            "id": "7e0fbe58911470d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/M-37 Добавить возможность получать код авторизации.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9add98bdde6eb54f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/M-29 Внедрить postgresql.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "832193d71b378faa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/M-40 Добавить форматтер (black, isort).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf7b2fce89edb1eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/M-37 Добавить возможность получать код авторизации.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "853cfd35338510a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/M-35 Добавить бэкенд для аутетификации.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1606fdde8b6ee447",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/M-26 Написать тесты для секций.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e2ab776218ce582",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/M-37 Добавить возможность получать код авторизации.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55b13b9679357ba1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/M-33 Добавить клиента (пользователя) на сайт.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3c1f4128fdfd56d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/M-46 Добавить в проекты необходимую библиотеку для работы с кафкой.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0919146f3b1662d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/M-33 Добавить клиента (пользователя) на сайт.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bfaef34f837ae286",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/M-48 Добавить модель для бронирования.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ceceaaae29182d90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/M-40 Добавить форматтер (black, isort).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf75d1f199ec7d59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/M-43 Написать Dockerfile к микросервису на FastAPI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63d8618bb0565725",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/M-47 Добавить приложение для бронирования.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb8054a0bd526e9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/М-30 Написать Dockerfile для основного приложения.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 14
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/М-30 Написать Dockerfile для основного приложения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/М-30 Написать Dockerfile для основного приложения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -293,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cards/М-30 Написать Dockerfile для основного приложения.md"
-              }
+              "state": {}
             }
           },
           {
@@ -345,10 +168,10 @@
       "obsidian-kanban:Создать новую доску": false
     }
   },
-  "active": "fb8054a0bd526e9f",
+  "active": "7e0fbe58911470d7",
   "lastOpenFiles": [
-    "Cards/М-2 Добавить DRF в проект.md",
     "Cards/М-30 Написать Dockerfile для основного приложения.md",
+    "Cards/М-2 Добавить DRF в проект.md",
     "Cards/M-1 Создать проект.md",
     "Cards/M-3 Добавить приложение realty. Подготовить архитектуру.md",
     "Cards/M-4 Добавить квартиры на сайт.md",
