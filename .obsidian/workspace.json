@@ -61,14 +61,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Real-eastate-kanban.md",
+                "file": "Cards/M-35 Добавить бэкенд для аутетификации.md",
                 "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1606fdde8b6ee447",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/M-26 Написать тесты для секций.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e2ab776218ce582",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/M-37 Добавить возможность получать код авторизации.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55b13b9679357ba1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/M-45 Добавить кафку.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -134,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Real-eastate-kanban.md",
+                "file": "Cards/M-45 Добавить кафку.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Real-eastate-kanban.md",
+                "file": "Cards/M-45 Добавить кафку.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Real-eastate-kanban.md"
+                "file": "Cards/M-45 Добавить кафку.md"
               }
             }
           },
@@ -226,10 +262,17 @@
       "obsidian-kanban:Создать новую доску": false
     }
   },
-  "active": "853cfd35338510a2",
+  "active": "55b13b9679357ba1",
   "lastOpenFiles": [
-    "Cards/M-42 Создать микросервис для взаимодействия с основным сервисом.md",
     "Cards/M-37 Добавить возможность получать код авторизации.md",
+    "Cards/M-45 Добавить кафку.md",
+    "Cards/M-44 Добавить сервис на FastAPI в общий docker-compose файл.md",
+    "Cards/M-26 Написать тесты для секций.md",
+    "Cards/M-43 Написать Dockerfile к микросервису на FastAPI.md",
+    "Cards/M-35 Добавить бэкенд для аутетификации.md",
+    "README.md",
+    "Real-eastate-kanban.md",
+    "Cards/M-42 Создать микросервис для взаимодействия с основным сервисом.md",
     "Cards/M-41 Написать makefile для форматтера и линтера.md",
     "Cards/M-40 Добавить форматтер (black, isort).md",
     "Cards/M-29 Внедрить postgresql.md",
@@ -239,7 +282,6 @@
     "Cards/M-21 Добавить возможность добавлять картинки для корпуса.md",
     "Cards/M-36 Добавить коды авторизации.md",
     "Cards/M-17 Добавить админку для квартир.md",
-    "Cards/M-35 Добавить бэкенд для аутетификации.md",
     "Cards/M-20 Добавить возможность добавлять картинки для квартир.md",
     "Cards/M-34 Добавить пользователя в админку.md",
     "Cards/M-15 Добавить админку для этажей.md",
@@ -248,12 +290,6 @@
     "Cards/M-32 Добавить приложение account.md",
     "Cards/M-18 Добавить админку для корпусов.md",
     "Cards/M-23 Внедрить паттерн Repository.md",
-    "Cards/М-30 Написать Dockerfile для основного приложения.md",
-    "Cards/M-22 Добавить возможность добавлять картинки для проектов.md",
-    "Cards/M-28 Написать тесты для проектов.md",
-    "Cards/M-27 Написать тесты для корпусов.md",
-    "Cards/M-19 Добавить админку для проектов.md",
-    "Cards/M-24 Написать тесты для квартир.md",
     "Без названия",
     "Cards",
     "Без названия/Django_4_v_primerakh.pdf",
