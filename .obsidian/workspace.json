@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 272.5
   },
   "right": {
     "id": "b7e48c17c7bf7dc0",
@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,20 +197,20 @@
   },
   "active": "9572f85e40532592",
   "lastOpenFiles": [
-    "README.md",
+    "Cards/02-М Добавить DRF в проект.md",
+    "Cards/01-M Создать проект.md",
     "HELP.md",
+    "README.md",
+    "library/Виртуальное окружение.md",
     "library/_attachments/Pasted image 20241017180943.png",
     "library/_attachments/Pasted image 20241017181104.png",
     "library/_attachments/Pasted image 20241017181148.png",
-    "library/Виртуальное окружение.md",
     "Real-eastate-list.md",
     "library/_attachments/Pasted image 20241017180740.png",
     "library/_attachments/Pasted image 20241017180804.png",
     "library/_attachments/Pasted image 20241017180351.png",
     "library/_attachments",
     "Cards/03-M Добавить приложение realty. Подготовить архитектуру.md",
-    "Cards/02-М Добавить DRF в проект.md",
-    "Cards/01-M Создать проект.md",
     "Real-eastate-kanban.md",
     "TO DO.md",
     "Cards/52-M Добавить Celery.md",
