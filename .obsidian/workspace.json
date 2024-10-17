@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "Cards/02-М Добавить DRF в проект.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "9f3e728b619e9c5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Real-eastate-list.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Real-eastate-list"
+              "title": "02-М Добавить DRF в проект"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,35 +195,35 @@
       "obsidian-kanban:Создать новую доску": false
     }
   },
-  "active": "9f3e728b619e9c5b",
+  "active": "9572f85e40532592",
   "lastOpenFiles": [
+    "Real-eastate-list.md",
+    "Cards/02-М Добавить DRF в проект.md",
     "README.md",
     "Real-eastate-kanban.md",
-    "Cards/М-2 Добавить DRF в проект.md",
-    "Cards/M-1 Создать проект.md",
-    "TO DO.md",
+    "Cards/01-M Создать проект.md",
     "library/Виртуальное окружение.md",
-    "Cards/M-3 Добавить приложение realty. Подготовить архитектуру.md",
-    "HELP.md",
+    "TO DO.md",
+    "Cards/52-M Добавить Celery.md",
+    "Cards/51-M Написать тесты для бронирования.md",
+    "Cards/50-M Дополнить API с квартирами информацией о бронировании.md",
+    "Cards/49-M Добавить возможность забронировать квартиру.md",
+    "Cards/48-M Добавить модель для бронирования.md",
+    "Cards/47-M Добавить приложение для бронирования.md",
+    "Cards/46-M Добавить в проекты необходимую библиотеку для работы с кафкой.md",
+    "Cards/45-M Добавить кафку.md",
+    "Cards/44-M Добавить сервис на FastAPI в общий docker-compose файл.md",
+    "Cards/43-M Написать Dockerfile к микросервису на FastAPI.md",
+    "Cards/42-M Создать микросервис для взаимодействия с основным сервисом.md",
+    "Cards/41-M Написать makefile для форматтера и линтера.md",
+    "Cards/40-M Добавить форматтер (black, isort).md",
+    "Cards/39-M Добавить линтер (flake8).md",
+    "Cards/38-M Добавить возможность авторизоваться через код.md",
+    "Cards/37-M Добавить возможность получать код авторизации.md",
+    "Cards/36-M Добавить коды авторизации.md",
+    "Cards/35-M Добавить бэкенд для аутетификации.md",
+    "Cards/34-M Добавить пользователя в админку.md",
     "library",
-    "Cards/M-52 Добавить Celery.md",
-    "Cards/M-51 Написать тесты для бронирования.md",
-    "Cards/M-44 Добавить сервис на FastAPI в общий docker-compose файл.md",
-    "Cards/M-43 Написать Dockerfile к микросервису на FastAPI.md",
-    "Cards/M-45 Добавить кафку.md",
-    "Cards/M-46 Добавить в проекты необходимую библиотеку для работы с кафкой.md",
-    "Cards/M-50 Дополнить API с квартирами информацией о бронировании.md",
-    "Cards/M-49 Добавить возможность забронировать квартиру.md",
-    "Cards/M-48 Добавить модель для бронирования.md",
-    "Cards/M-47 Добавить приложение для бронирования.md",
-    "Cards/M-42 Создать микросервис для взаимодействия с основным сервисом.md",
-    "Cards/M-41 Написать makefile для форматтера и линтера.md",
-    "Cards/M-40 Добавить форматтер (black, isort).md",
-    "Cards/M-39 Добавить линтер (flake8).md",
-    "Cards/M-38 Добавить возможность авторизоваться через код.md",
-    "Cards/M-37 Добавить возможность получать код авторизации.md",
-    "Cards/M-36 Добавить коды авторизации.md",
-    "Cards/M-35 Добавить бэкенд для аутетификации.md",
     "Cards",
     "Без названия/Django_4_v_primerakh.pdf",
     "Без названия/sql_primer.pdf",
