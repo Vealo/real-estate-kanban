@@ -3,7 +3,5 @@
   "templater-obsidian",
   "obsidian-git",
   "calendar",
-  "obsidian-kanban",
-  "code-emitter",
-  "python-scripter"
+  "obsidian-kanban"
 ]

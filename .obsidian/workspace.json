@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/М-2 Добавить DRF в проект.md",
+                "file": "TO DO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "М-2 Добавить DRF в проект"
+              "title": "TO DO"
             }
           }
         ],
@@ -212,9 +212,12 @@
   },
   "active": "9f3e728b619e9c5b",
   "lastOpenFiles": [
-    "Cards/M-1 Создать проект.md",
     "Cards/М-2 Добавить DRF в проект.md",
+    "library/Виртуальное окружение.md",
+    "Cards/M-3 Добавить приложение realty. Подготовить архитектуру.md",
     "HELP.md",
+    "library",
+    "Cards/M-1 Создать проект.md",
     "README.md",
     "Real-eastate-kanban.md",
     "TO DO.md",
@@ -236,9 +239,6 @@
     "Cards/M-37 Добавить возможность получать код авторизации.md",
     "Cards/M-36 Добавить коды авторизации.md",
     "Cards/M-35 Добавить бэкенд для аутетификации.md",
-    "Cards/M-34 Добавить пользователя в админку.md",
-    "Cards/M-33 Добавить клиента (пользователя) на сайт.md",
-    "Без названия",
     "Cards",
     "Без названия/Django_4_v_primerakh.pdf",
     "Без названия/sql_primer.pdf",
