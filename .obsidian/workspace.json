@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Real-eastate-list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Real-eastate-list"
             }
           }
         ],
@@ -211,15 +211,15 @@
   },
   "active": "9f3e728b619e9c5b",
   "lastOpenFiles": [
-    "Cards/М-2 Добавить DRF в проект.md",
+    "README.md",
     "Real-eastate-kanban.md",
+    "Cards/М-2 Добавить DRF в проект.md",
     "Cards/M-1 Создать проект.md",
     "TO DO.md",
     "library/Виртуальное окружение.md",
     "Cards/M-3 Добавить приложение realty. Подготовить архитектуру.md",
     "HELP.md",
     "library",
-    "README.md",
     "Cards/M-52 Добавить Celery.md",
     "Cards/M-51 Написать тесты для бронирования.md",
     "Cards/M-44 Добавить сервис на FastAPI в общий docker-compose файл.md",
