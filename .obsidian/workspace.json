@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/01-M Создать проект.md",
-                "mode": "source",
+                "file": "Real-eastate-list.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-M Создать проект"
+              "title": "Real-eastate-list"
             }
           },
           {
@@ -35,7 +35,8 @@
               "title": "03-M Добавить приложение realty. Подготовить архитектуру"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,14 +209,14 @@
       "obsidian-kanban:Создать новую доску": false
     }
   },
-  "active": "9572f85e40532592",
+  "active": "ee9e8d554fcd5d91",
   "lastOpenFiles": [
     "Real-eastate-list.md",
-    "Cards/03-M Добавить приложение realty. Подготовить архитектуру.md",
     "Cards/02-М Добавить DRF в проект.md",
+    "Cards/01-M Создать проект.md",
+    "Cards/03-M Добавить приложение realty. Подготовить архитектуру.md",
     "Real-eastate-kanban.md",
     "README.md",
-    "Cards/01-M Создать проект.md",
     "library/Виртуальное окружение.md",
     "TO DO.md",
     "Cards/52-M Добавить Celery.md",
