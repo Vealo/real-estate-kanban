@@ -1,7 +1,12 @@
 # M-6: Добавить swagger
 #everyone #tech #swagger #DRF #drf_spectacular
 >## Задание:
-Добавить swagger 
+>- Добавить swagger 
+## Требование:
+- Использовать drf_spectacular
+## Материалы:
+- [Django REST Framework](../library/Django/Django%20REST%20Framework.md)
+- [Что такое сериализатор в Django REST Framework?](../library/Django/Что%20такое%20сериализатор%20в%20Django%20REST%20Framework?.md)
 ## Пример:
 ### 1\) Установим пакет `drf-spectacular` с помощью pip:
 ``` bush
@@ -52,34 +57,30 @@ urlpatterns = [
 	path('api/', include('properties.urls')), # Подключение вашего приложения ]
 ```
 
-## Шаг 4: Тестирование документации
+### 3) Тестирование документации
 
 Теперь вы можете запустить сервер:
 
-bash
+``` bash
+python manage.py runserver
+```
 
-`python manage.py runserver`
-
-## Доступ к документации
+### 4) Доступ к документации
 
 - **Swagger UI**: Перейдите по адресу `http://127.0.0.1:8000/api/schema/swagger-ui/`
 - **Redoc**: Перейдите по адресу `http://127.0.0.1:8000/api/schema/redoc/`
 
 Эти страницы будут содержать автоматически сгенерированную документацию для вашего API.
 
-## Шаг 5: Использование декораторов для настройки схемы (опционально)
+### 5) Использование декораторов для настройки схемы (опционально)
 
 Вы можете использовать декораторы из `drf-spectacular` для более точной настройки вашей схемы. Например, если у вас есть представление, вы можете добавить описание к эндпоинту:
 
-python
+```python
+from drf_spectacular.utils import extend_schema @extend_schema(     responses={200: FlatSerializer(many=True)}, ) class FlatListView(generics.ListAPIView):     queryset = Flat.objects.all()    serializer_class = FlatSerializer
+```
 
-`from drf_spectacular.utils import extend_schema @extend_schema(     responses={200: FlatSerializer(many=True)}, ) class FlatListView(generics.ListAPIView):     queryset = Flat.objects.all()    serializer_class = FlatSerializer`
+Это позволит вам более детально описать поведение ваших API-эндпоинтов. Теперь у вас есть полностью настроенная документация API с использованием `drf-spectacular`. Вы можете настраивать и расширять её по мере необходимости!
 
-Это позволит вам более детально описать поведение ваших API-эндпоинтов.Теперь у вас есть полностью настроенная документация API с использованием `drf-spectacular`. Вы можете настраивать и расширять её по мере необходимости!
-## Требование:
-- Использовать drf_spectacular
-## Материалы:
-- [Django REST Framework](../library/Django/Django%20REST%20Framework.md)
-- [Что такое сериализатор в Django REST Framework?](../library/Django/Что%20такое%20сериализатор%20в%20Django%20REST%20Framework?.md)
 ## Дальше:
 - [07-M Добавить этажи](07-M%20Добавить%20этажи.md)

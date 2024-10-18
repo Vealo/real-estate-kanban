@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/06-M Добавить swagger.md",
+                "file": "Cards/07-M Добавить этажи.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "06-M Добавить swagger"
+              "title": "07-M Добавить этажи"
             },
             "group": "8f2ca8f9f2ced2de"
           }
@@ -49,12 +49,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/06-M Добавить swagger.md",
+                "file": "Cards/07-M Добавить этажи.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "06-M Добавить swagger"
+              "title": "07-M Добавить этажи"
             },
             "group": "8f2ca8f9f2ced2de"
           }
@@ -176,10 +176,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/06-M Добавить swagger.md"
+                "file": "Cards/07-M Добавить этажи.md"
               },
               "icon": "lucide-list",
-              "title": "Структура 06-M Добавить swagger"
+              "title": "Структура 07-M Добавить этажи"
             }
           },
           {
@@ -236,11 +236,11 @@
       "obsidian-kanban:Создать новую доску": false
     }
   },
-  "active": "8e37f5ecda092882",
+  "active": "aba1bd13fbaf22cd",
   "lastOpenFiles": [
+    "Cards/06-M Добавить swagger.md",
     "library/Django/APIView.md",
     "library/Django/Что такое сериализатор в Django REST Framework?.md",
-    "Cards/06-M Добавить swagger.md",
     "Cards/05-M Написать API для получения квартир.md",
     "library/Django/REST.md",
     "library/Django/Django REST Framework.md",
