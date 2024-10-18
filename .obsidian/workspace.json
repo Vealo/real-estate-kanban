@@ -27,36 +27,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "library/Django/Определение предустановленного порядка сортировки.md",
+                "file": "library/Django/Введение в веб-разработку/1.1~3 ТЕЛО HTTP.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Определение предустановленного порядка сортировки"
+              "title": "1.1~3 ТЕЛО HTTP"
             },
-            "group": "8f2ca8f9f2ced2de"
+            "group": "4bfc934df9a4dc92"
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "8363143540564965",
+        "id": "27a19e66e2eb0f5d",
         "type": "tabs",
         "children": [
           {
-            "id": "aba1bd13fbaf22cd",
+            "id": "5f7b639750e462f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "library/Django/Определение предустановленного порядка сортировки.md",
+                "file": "library/Django/Введение в веб-разработку/1.1~3 ТЕЛО HTTP.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Определение предустановленного порядка сортировки"
+              "title": "1.1~3 ТЕЛО HTTP"
             },
-            "group": "8f2ca8f9f2ced2de"
+            "group": "4bfc934df9a4dc92"
           }
         ]
       }
@@ -175,10 +175,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "library/Django/Определение предустановленного порядка сортировки.md"
+                "file": "library/Django/Введение в веб-разработку/1.1~3 ТЕЛО HTTP.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Определение предустановленного порядка сортировки"
+              "title": "Структура 1.1~3 ТЕЛО HTTP"
             }
           },
           {
@@ -239,13 +239,26 @@
   },
   "active": "8e37f5ecda092882",
   "lastOpenFiles": [
-    "library/Django/_attachments/0aee9f37d67f85b1ee13cba85000b0a3_MD5.png",
-    "library/Django/Django REST Framework.md",
+    "library/Django/Введение в веб-разработку/1.1~1 Как работает интернет.md",
+    "library/Django/Введение в веб-разработку/1.1~2 HTTP.md",
+    "library/Django/Введение в веб-разработку/1.1~3 ТЕЛО HTTP.md",
+    "library/Django/Введение в веб-разработку/_attachments/b38c3a7b9b4a954777c75bb7bc379007_MD5.png",
+    "library/Django/Введение в веб-разработку/_attachments/da228214ca5b9c74fed71cfc6d4ad4b1_MD5.png",
+    "library/Django/Введение в веб-разработку/_attachments/5354ba0d89798e038c16045d6836c41b_MD5.png",
+    "library/Django/Введение в веб-разработку/_attachments/320d7ddd303c0129304e45fde7cbba12_MD5.png",
+    "library/Django/Введение в веб-разработку/_attachments/3d822c5286414e0938744a2e21f09caf_MD5.png",
+    "library/Django/Создание моделей данных блога.md",
     "library/Django/Определение предустановленного порядка сортировки.md",
+    "library/Django/_attachments/0aee9f37d67f85b1ee13cba85000b0a3_MD5.png",
+    "library/Django/_attachments/435846ff122bd97a0fa815fe0fec3370_MD5.png",
+    "library/Django/_attachments/Django REST FrameWork.png",
+    "library/Django/Введение в веб-разработку/_attachments",
+    "Cards/31-M Написать docker-compose файл для поднятия приложения + БД.md",
+    "library/Django/Введение в веб-разработку",
+    "library/Django/Без названия.md",
+    "library/Django/Django REST Framework.md",
     "library/_attachments/API.png",
     "library/_attachments/Pasted image 20241017181148.png",
-    "library/Django/Создание моделей данных блога.md",
-    "library/Django/_attachments/435846ff122bd97a0fa815fe0fec3370_MD5.png",
     "Cards/07-M Добавить этажи.md",
     "Cards/06-M Добавить swagger.md",
     "Cards/04-M Добавить квартиры на сайт.md",
@@ -255,7 +268,6 @@
     "library/Django/REST.md",
     "library/Django/Django - Пример реализации модели.md",
     "library/Django/Django - Модель.md",
-    "library/Django/_attachments/Django REST FrameWork.png",
     "library/Django/_attachments",
     "Cards/01-M Создать проект.md",
     "Cards/02-М Добавить DRF в проект.md",
@@ -266,23 +278,11 @@
     "Real-eastate-list.md",
     "library/Вспомогательные материалы.md",
     "library/Виртуальное окружение.md",
-    "Real-eastate-kanban.md",
-    "Cards/14-M Добавить админку для квартир.md",
     "library/Django",
-    "README.md",
-    "library/_attachments/Pasted image 20241017180943.png",
-    "library/_attachments/Pasted image 20241017181104.png",
-    "library/_attachments/Pasted image 20241017180740.png",
-    "library/_attachments/Pasted image 20241017180804.png",
-    "library/_attachments/Pasted image 20241017180351.png",
     "library/_attachments",
-    "TO DO.md",
-    "Cards/52-M Добавить Celery.md",
     "library",
     "Cards",
     "Без названия/Django_4_v_primerakh.pdf",
-    "Без названия/sql_primer.pdf",
-    "Без названия/Django_4_v_primerakh 1.pdf",
-    "Django_4_v_primerakh.pdf"
+    "Без названия/sql_primer.pdf"
   ]
 }
