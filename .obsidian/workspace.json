@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "library/Django/Создание моделей данных блога.md",
+                "file": "library/Django/Django REST Framework.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Создание моделей данных блога"
+              "title": "Django REST Framework"
             },
             "group": "8f2ca8f9f2ced2de"
           }
@@ -49,12 +49,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "library/Django/Создание моделей данных блога.md",
+                "file": "library/Django/Django REST Framework.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Создание моделей данных блога"
+              "title": "Django REST Framework"
             },
             "group": "8f2ca8f9f2ced2de"
           }
@@ -175,10 +175,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "library/Django/Создание моделей данных блога.md"
+                "file": "library/Django/Django REST Framework.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Создание моделей данных блога"
+              "title": "Структура Django REST Framework"
             }
           },
           {
@@ -232,13 +232,18 @@
       "templates:Вставить шаблон": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Создать новую доску": false
+      "obsidian-kanban:Создать новую доску": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
+      "command-palette:Открыть палитру команд": false
     }
   },
   "active": "8e37f5ecda092882",
   "lastOpenFiles": [
-    "Cards/07-M Добавить этажи.md",
+    "library/_attachments/API.png",
+    "library/_attachments/Pasted image 20241017181148.png",
     "library/Django/Создание моделей данных блога.md",
+    "library/Django/_attachments/435846ff122bd97a0fa815fe0fec3370_MD5.png",
+    "Cards/07-M Добавить этажи.md",
     "Cards/06-M Добавить swagger.md",
     "Cards/04-M Добавить квартиры на сайт.md",
     "Cards/05-M Написать API для получения квартир.md",
@@ -254,8 +259,6 @@
     "Cards/02-М Добавить DRF в проект.md",
     "Cards/03-M Добавить приложение realty. Подготовить архитектуру.md",
     "library/Django/API.md",
-    "library/_attachments/Pasted image 20241017181148.png",
-    "library/_attachments/API.png",
     "library/Без названия",
     "HELP.md",
     "Real-eastate-list.md",
@@ -274,7 +277,6 @@
     "TO DO.md",
     "Cards/52-M Добавить Celery.md",
     "Cards/51-M Написать тесты для бронирования.md",
-    "Cards/50-M Дополнить API с квартирами информацией о бронировании.md",
     "library",
     "Cards",
     "Без названия/Django_4_v_primerakh.pdf",
