@@ -245,5 +245,23 @@
       ],
       "key": "V"
     }
+  ],
+  "note-composer:extract-heading": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "Q"
+    }
+  ],
+  "note-composer:split-file": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "W"
+    }
   ]
 }

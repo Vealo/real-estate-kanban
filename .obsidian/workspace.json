@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "library/Виртуальное окружение.md",
-                "mode": "preview",
+                "file": "Cards/05-M Написать API для получения квартир.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Виртуальное окружение"
+              "title": "05-M Написать API для получения квартир"
             },
             "group": "5e75b06277da5ff3"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "library/Виртуальное окружение.md",
+                "file": "Cards/05-M Написать API для получения квартир.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Виртуальное окружение"
+              "title": "05-M Написать API для получения квартир"
             },
             "group": "5e75b06277da5ff3"
           }
@@ -160,10 +160,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "library/Виртуальное окружение.md"
+                "file": "Cards/05-M Написать API для получения квартир.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Виртуальное окружение"
+              "title": "Структура 05-M Написать API для получения квартир"
             }
           },
           {
@@ -221,9 +221,11 @@
   },
   "active": "1e042c353ff23809",
   "lastOpenFiles": [
-    "Real-eastate-kanban.md",
     "Real-eastate-list.md",
     "Cards/04-M Добавить квартиры на сайт.md",
+    "library/Вспомогательные материалы.md",
+    "library/Виртуальное окружение.md",
+    "Real-eastate-kanban.md",
     "library/Django/Django - Модель.md",
     "Cards/03-M Добавить приложение realty. Подготовить архитектуру.md",
     "library/Django/Django - Пример реализации модели.md",
@@ -235,7 +237,6 @@
     "Cards/01-M Создать проект.md",
     "README.md",
     "library/_attachments/Pasted image 20241017181148.png",
-    "library/Виртуальное окружение.md",
     "library/_attachments/Pasted image 20241017180943.png",
     "library/_attachments/Pasted image 20241017181104.png",
     "library/_attachments/Pasted image 20241017180740.png",
@@ -254,7 +255,6 @@
     "Cards/44-M Добавить сервис на FastAPI в общий docker-compose файл.md",
     "Cards/43-M Написать Dockerfile к микросервису на FastAPI.md",
     "Cards/42-M Создать микросервис для взаимодействия с основным сервисом.md",
-    "Cards/41-M Написать makefile для форматтера и линтера.md",
     "library",
     "Cards",
     "Без названия/Django_4_v_primerakh.pdf",
