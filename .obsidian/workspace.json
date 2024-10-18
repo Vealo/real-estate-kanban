@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "64250185308999b2",
+        "id": "5ff8aeaffbcb2454",
         "type": "tabs",
         "children": [
           {
-            "id": "7a7354b759d1b6a3",
+            "id": "1e042c353ff23809",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/01-M Создать проект.md",
+                "file": "Cards/03-M Добавить приложение realty. Подготовить архитектуру.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "01-M Создать проект"
+              "title": "03-M Добавить приложение realty. Подготовить архитектуру"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tech",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,10 +138,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/01-M Создать проект.md"
+                "file": "Cards/03-M Добавить приложение realty. Подготовить архитектуру.md"
               },
               "icon": "lucide-list",
-              "title": "Структура 01-M Создать проект"
+              "title": "Структура 03-M Добавить приложение realty. Подготовить архитектуру"
             }
           },
           {
@@ -184,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,19 +197,19 @@
       "obsidian-kanban:Создать новую доску": false
     }
   },
-  "active": "9c39992b3bf8e902",
+  "active": "1e042c353ff23809",
   "lastOpenFiles": [
     "Real-eastate-list.md",
+    "Cards/04-M Добавить квартиры на сайт.md",
+    "Cards/03-M Добавить приложение realty. Подготовить архитектуру.md",
+    "Cards/02-М Добавить DRF в проект.md",
+    "Cards/01-M Создать проект.md",
     "Real-eastate-kanban.md",
     "Cards/05-M Написать API для получения квартир.md",
     "README.md",
     "HELP.md",
-    "Cards/04-M Добавить квартиры на сайт.md",
     "library/_attachments/Pasted image 20241017181148.png",
-    "Cards/03-M Добавить приложение realty. Подготовить архитектуру.md",
-    "Cards/01-M Создать проект.md",
     "library/Виртуальное окружение.md",
-    "Cards/02-М Добавить DRF в проект.md",
     "library/_attachments/Pasted image 20241017180943.png",
     "library/_attachments/Pasted image 20241017181104.png",
     "library/_attachments/Pasted image 20241017180740.png",

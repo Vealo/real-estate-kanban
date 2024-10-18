@@ -8,5 +8,6 @@
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
   "attachmentFolderPath": ".//_attachments",
-  "promptDelete": false
+  "promptDelete": false,
+  "livePreview": false
 }

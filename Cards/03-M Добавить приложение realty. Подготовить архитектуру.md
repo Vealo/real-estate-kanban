@@ -2,9 +2,13 @@
 #everyone #tech  
 > Основное приложение с недвижимостью.  
 
+## Задание:
+1) Добавьте приложение  realty
+### Пример команды
 ``` bash
 python manage.py startapp realty
 ```
+### Результат:
 ``` bash
 app/ 
 	manage.py 
@@ -23,10 +27,11 @@ app/
 		tests.py
 		views.py
 ```
+2) Реализуйте классы моделей
 
-Подготовить архитектуру в соответствии с этими рекомендациями [https://github.com/HackSoftware/Django-Styleguide](https://github.com/HackSoftware/Django-Styleguide)
-
-Классы пока могут быть пустые
+## Требования к классам моделей:
+1) Подготовить архитектуру в соответствии с этими рекомендациями [https://github.com/HackSoftware/Django-Styleguide](https://github.com/HackSoftware/Django-Styleguide)
+3) Классы моделей пока могут быть пустые
 
 ## Пример классов realty/models.py
 
