@@ -239,6 +239,7 @@
   },
   "active": "8e37f5ecda092882",
   "lastOpenFiles": [
+    "library/Django/_attachments/0aee9f37d67f85b1ee13cba85000b0a3_MD5.png",
     "library/Django/Django REST Framework.md",
     "library/Django/Определение предустановленного порядка сортировки.md",
     "library/_attachments/API.png",
@@ -277,7 +278,6 @@
     "library/_attachments",
     "TO DO.md",
     "Cards/52-M Добавить Celery.md",
-    "Cards/51-M Написать тесты для бронирования.md",
     "library",
     "Cards",
     "Без названия/Django_4_v_primerakh.pdf",
