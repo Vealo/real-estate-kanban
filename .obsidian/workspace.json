@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/04-M Добавить квартиры на сайт.md",
-                "mode": "source",
+                "file": "library/Виртуальное окружение.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "04-M Добавить квартиры на сайт"
+              "title": "Виртуальное окружение"
             },
             "group": "5e75b06277da5ff3"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/04-M Добавить квартиры на сайт.md",
+                "file": "library/Виртуальное окружение.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "04-M Добавить квартиры на сайт"
+              "title": "Виртуальное окружение"
             },
             "group": "5e75b06277da5ff3"
           }
@@ -160,10 +160,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/04-M Добавить квартиры на сайт.md"
+                "file": "library/Виртуальное окружение.md"
               },
               "icon": "lucide-list",
-              "title": "Структура 04-M Добавить квартиры на сайт"
+              "title": "Структура Виртуальное окружение"
             }
           },
           {
@@ -221,11 +221,11 @@
   },
   "active": "1e042c353ff23809",
   "lastOpenFiles": [
-    "Real-eastate-list.md",
-    "library/Django/Django - Модель.md",
-    "Cards/04-M Добавить квартиры на сайт.md",
-    "Cards/03-M Добавить приложение realty. Подготовить архитектуру.md",
     "Real-eastate-kanban.md",
+    "Real-eastate-list.md",
+    "Cards/04-M Добавить квартиры на сайт.md",
+    "library/Django/Django - Модель.md",
+    "Cards/03-M Добавить приложение realty. Подготовить архитектуру.md",
     "library/Django/Django - Пример реализации модели.md",
     "HELP.md",
     "Cards/14-M Добавить админку для квартир.md",
