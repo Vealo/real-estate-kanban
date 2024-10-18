@@ -4,7 +4,7 @@
 
 ## Задание:
 1) Добавьте приложение  realty
-### Пример команды
+**Пример команды**
 ``` bash
 python manage.py startapp realty
 ```
