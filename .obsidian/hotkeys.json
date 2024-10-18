@@ -236,5 +236,14 @@
       ],
       "key": "O"
     }
+  ],
+  "editor:insert-callout": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "V"
+    }
   ]
 }

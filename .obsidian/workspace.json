@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "library/Django/Django - Модель.md",
+                "file": "Cards/04-M Добавить квартиры на сайт.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Django - Модель"
+              "title": "04-M Добавить квартиры на сайт"
             },
             "group": "5e75b06277da5ff3"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "library/Django/Django - Модель.md",
+                "file": "Cards/04-M Добавить квартиры на сайт.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Django - Модель"
+              "title": "04-M Добавить квартиры на сайт"
             },
             "group": "5e75b06277da5ff3"
           }
@@ -160,10 +160,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "library/Django/Django - Модель.md"
+                "file": "Cards/04-M Добавить квартиры на сайт.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Django - Модель"
+              "title": "Структура 04-M Добавить квартиры на сайт"
             }
           },
           {
@@ -221,11 +221,11 @@
   },
   "active": "1e042c353ff23809",
   "lastOpenFiles": [
-    "Cards/04-M Добавить квартиры на сайт.md",
     "Real-eastate-list.md",
+    "library/Django/Django - Модель.md",
+    "Cards/04-M Добавить квартиры на сайт.md",
     "Cards/03-M Добавить приложение realty. Подготовить архитектуру.md",
     "Real-eastate-kanban.md",
-    "library/Django/Django - Модель.md",
     "library/Django/Django - Пример реализации модели.md",
     "HELP.md",
     "Cards/14-M Добавить админку для квартир.md",
