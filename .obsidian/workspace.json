@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/07-M Добавить этажи.md",
+                "file": "library/Django/Создание моделей данных блога.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "07-M Добавить этажи"
+              "title": "Создание моделей данных блога"
             },
             "group": "8f2ca8f9f2ced2de"
           }
@@ -49,12 +49,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/07-M Добавить этажи.md",
+                "file": "library/Django/Создание моделей данных блога.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "07-M Добавить этажи"
+              "title": "Создание моделей данных блога"
             },
             "group": "8f2ca8f9f2ced2de"
           }
@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b7e48c17c7bf7dc0",
@@ -176,10 +175,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/07-M Добавить этажи.md"
+                "file": "library/Django/Создание моделей данных блога.md"
               },
               "icon": "lucide-list",
-              "title": "Структура 07-M Добавить этажи"
+              "title": "Структура Создание моделей данных блога"
             }
           },
           {
@@ -236,12 +235,15 @@
       "obsidian-kanban:Создать новую доску": false
     }
   },
-  "active": "aba1bd13fbaf22cd",
+  "active": "8e37f5ecda092882",
   "lastOpenFiles": [
+    "Cards/07-M Добавить этажи.md",
+    "library/Django/Создание моделей данных блога.md",
     "Cards/06-M Добавить swagger.md",
+    "Cards/04-M Добавить квартиры на сайт.md",
+    "Cards/05-M Написать API для получения квартир.md",
     "library/Django/APIView.md",
     "library/Django/Что такое сериализатор в Django REST Framework?.md",
-    "Cards/05-M Написать API для получения квартир.md",
     "library/Django/REST.md",
     "library/Django/Django REST Framework.md",
     "library/Django/Django - Пример реализации модели.md",
@@ -251,7 +253,6 @@
     "Cards/01-M Создать проект.md",
     "Cards/02-М Добавить DRF в проект.md",
     "Cards/03-M Добавить приложение realty. Подготовить архитектуру.md",
-    "Cards/04-M Добавить квартиры на сайт.md",
     "library/Django/API.md",
     "library/_attachments/Pasted image 20241017181148.png",
     "library/_attachments/API.png",
@@ -274,8 +275,6 @@
     "Cards/52-M Добавить Celery.md",
     "Cards/51-M Написать тесты для бронирования.md",
     "Cards/50-M Дополнить API с квартирами информацией о бронировании.md",
-    "Cards/49-M Добавить возможность забронировать квартиру.md",
-    "Cards/48-M Добавить модель для бронирования.md",
     "library",
     "Cards",
     "Без названия/Django_4_v_primerakh.pdf",
