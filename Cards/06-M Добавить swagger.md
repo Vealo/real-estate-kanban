@@ -7,7 +7,7 @@
 ## Требование:
 - Использовать drf_spectacular
 ## Материалы:
-[Django REST Framework](../library/Django/Django%20REST%20Framework.md)
-
+- [Django REST Framework](../library/Django/Django%20REST%20Framework.md)
+- [Что такое сериализатор в Django REST Framework?](../library/Django/Что%20такое%20сериализатор%20в%20Django%20REST%20Framework?.md)
 ## Дальше:
 - [07-M Добавить этажи](07-M%20Добавить%20этажи.md)
