@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "library/Django/Django REST Framework.md",
+                "file": "library/Django/Определение предустановленного порядка сортировки.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Django REST Framework"
+              "title": "Определение предустановленного порядка сортировки"
             },
             "group": "8f2ca8f9f2ced2de"
           }
@@ -49,12 +49,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "library/Django/Django REST Framework.md",
+                "file": "library/Django/Определение предустановленного порядка сортировки.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Django REST Framework"
+              "title": "Определение предустановленного порядка сортировки"
             },
             "group": "8f2ca8f9f2ced2de"
           }
@@ -175,10 +175,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "library/Django/Django REST Framework.md"
+                "file": "library/Django/Определение предустановленного порядка сортировки.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Django REST Framework"
+              "title": "Структура Определение предустановленного порядка сортировки"
             }
           },
           {
@@ -239,6 +239,8 @@
   },
   "active": "8e37f5ecda092882",
   "lastOpenFiles": [
+    "library/Django/Django REST Framework.md",
+    "library/Django/Определение предустановленного порядка сортировки.md",
     "library/_attachments/API.png",
     "library/_attachments/Pasted image 20241017181148.png",
     "library/Django/Создание моделей данных блога.md",
@@ -250,7 +252,6 @@
     "library/Django/APIView.md",
     "library/Django/Что такое сериализатор в Django REST Framework?.md",
     "library/Django/REST.md",
-    "library/Django/Django REST Framework.md",
     "library/Django/Django - Пример реализации модели.md",
     "library/Django/Django - Модель.md",
     "library/Django/_attachments/Django REST FrameWork.png",
