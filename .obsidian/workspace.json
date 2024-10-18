@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/03-M Добавить приложение realty. Подготовить архитектуру.md",
+                "file": "Real-eastate-list.md",
                 "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Real-eastate-list"
+            },
+            "group": "26242b1c6f0b3e94"
+          },
+          {
+            "id": "52bcad771f84e459",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/03-M Добавить приложение realty. Подготовить архитектуру.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "03-M Добавить приложение realty. Подготовить архитектуру"
             }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "b69a3e11cc379767",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d259613dcb8c7647",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Real-eastate-list.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Real-eastate-list"
+            },
+            "group": "26242b1c6f0b3e94"
           }
         ]
       }
@@ -183,7 +220,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,18 +235,20 @@
       "obsidian-kanban:Создать новую доску": false
     }
   },
-  "active": "1e042c353ff23809",
+  "active": "52bcad771f84e459",
   "lastOpenFiles": [
     "Real-eastate-list.md",
-    "Cards/05-M Написать API для получения квартир.md",
-    "Cards/04-M Добавить квартиры на сайт.md",
-    "library/Модель.md",
     "Real-eastate-kanban.md",
+    "library/Django/Django - Модель.md",
+    "HELP.md",
+    "Cards/14-M Добавить админку для квартир.md",
+    "library/Django",
     "Cards/03-M Добавить приложение realty. Подготовить архитектуру.md",
+    "Cards/04-M Добавить квартиры на сайт.md",
+    "Cards/05-M Написать API для получения квартир.md",
     "Cards/02-М Добавить DRF в проект.md",
     "Cards/01-M Создать проект.md",
     "README.md",
-    "HELP.md",
     "library/_attachments/Pasted image 20241017181148.png",
     "library/Виртуальное окружение.md",
     "library/_attachments/Pasted image 20241017180943.png",
@@ -230,8 +270,6 @@
     "Cards/43-M Написать Dockerfile к микросервису на FastAPI.md",
     "Cards/42-M Создать микросервис для взаимодействия с основным сервисом.md",
     "Cards/41-M Написать makefile для форматтера и линтера.md",
-    "Cards/40-M Добавить форматтер (black, isort).md",
-    "Cards/39-M Добавить линтер (flake8).md",
     "library",
     "Cards",
     "Без названия/Django_4_v_primerakh.pdf",

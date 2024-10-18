@@ -3,12 +3,12 @@
 > Основное приложение с недвижимостью.  
 
 ## Задание:
-1) Добавьте приложение  realty
+### 1) Добавьте приложение  realty
 **Пример команды**
 ``` bash
 python manage.py startapp realty
 ```
-### Результат:
+**Результат**:
 ``` bash
 app/ 
 	manage.py 
@@ -27,8 +27,10 @@ app/
 		tests.py
 		views.py
 ```
-2) Реализуйте классы моделей
-3) 
+### 2) Реализуйте классы моделей
+​	Вспомогательный материалы:  
+- [Django - Модель](../library/Django/Django%20-%20Модель.md)
+- 
 
 ## Требования к классам моделей:
 1) Подготовить архитектуру в соответствии с этими рекомендациями [https://github.com/HackSoftware/Django-Styleguide](https://github.com/HackSoftware/Django-Styleguide)
