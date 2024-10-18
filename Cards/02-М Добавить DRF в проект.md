@@ -1,6 +1,8 @@
 # М-2: Добавить DRF в проект
 #everyone #tech #DRF
-## Задание:
+>## Задание:
+>Установить DRF
+## Пример
 1\) Устанавливаем в [виртуальное окружение](../library/Виртуальное%20окружение.md) DRF  
 ``` python
 pip install djangorestframework

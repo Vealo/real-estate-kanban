@@ -308,5 +308,14 @@
       ],
       "key": "'"
     }
+  ],
+  "editor:toggle-blockquote": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "E"
+    }
   ]
 }

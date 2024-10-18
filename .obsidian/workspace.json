@@ -13,35 +13,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/05-M Написать API для получения квартир.md",
+                "file": "library/Django/Что такое сериализатор в Django REST Framework?.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "05-M Написать API для получения квартир"
+              "title": "Что такое сериализатор в Django REST Framework?"
             },
-            "group": "36b08b67753c4db5"
+            "group": "daad8f7199223050"
           }
         ]
       },
       {
-        "id": "d64d1528817f5588",
+        "id": "5a0ab14e2d971d64",
         "type": "tabs",
         "children": [
           {
-            "id": "9067c0e61ed45fb3",
+            "id": "b675ee6bc8c41227",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/05-M Написать API для получения квартир.md",
+                "file": "library/Django/Что такое сериализатор в Django REST Framework?.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "05-M Написать API для получения квартир"
+              "title": "Что такое сериализатор в Django REST Framework?"
             },
-            "group": "36b08b67753c4db5"
+            "group": "daad8f7199223050"
           }
         ]
       }
@@ -160,10 +160,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/05-M Написать API для получения квартир.md"
+                "file": "library/Django/Что такое сериализатор в Django REST Framework?.md"
               },
               "icon": "lucide-list",
-              "title": "Структура 05-M Написать API для получения квартир"
+              "title": "Структура Что такое сериализатор в Django REST Framework?"
             }
           },
           {
@@ -222,20 +222,28 @@
   },
   "active": "1e042c353ff23809",
   "lastOpenFiles": [
-    "library/_attachments/Pasted image 20241017181148.png",
+    "library/Django/REST.md",
+    "library/Django/Django REST Framework.md",
+    "library/Django/Django - Пример реализации модели.md",
+    "library/Django/Django - Модель.md",
+    "Cards/06-M Добавить swagger.md",
+    "library/Django/Что такое сериализатор в Django REST Framework?.md",
     "Cards/05-M Написать API для получения квартир.md",
-    "library/Без названия",
-    "Cards/04-M Добавить квартиры на сайт.md",
-    "Cards/03-M Добавить приложение realty. Подготовить архитектуру.md",
-    "HELP.md",
-    "Cards/02-М Добавить DRF в проект.md",
+    "library/Django/_attachments/Django REST FrameWork.png",
+    "library/Django/_attachments",
     "Cards/01-M Создать проект.md",
+    "Cards/02-М Добавить DRF в проект.md",
+    "Cards/03-M Добавить приложение realty. Подготовить архитектуру.md",
+    "Cards/04-M Добавить квартиры на сайт.md",
+    "library/Django/API.md",
+    "library/_attachments/Pasted image 20241017181148.png",
+    "library/_attachments/API.png",
+    "library/Без названия",
+    "HELP.md",
     "Real-eastate-list.md",
     "library/Вспомогательные материалы.md",
     "library/Виртуальное окружение.md",
     "Real-eastate-kanban.md",
-    "library/Django/Django - Модель.md",
-    "library/Django/Django - Пример реализации модели.md",
     "Cards/14-M Добавить админку для квартир.md",
     "library/Django",
     "README.md",
@@ -252,16 +260,11 @@
     "Cards/49-M Добавить возможность забронировать квартиру.md",
     "Cards/48-M Добавить модель для бронирования.md",
     "Cards/47-M Добавить приложение для бронирования.md",
-    "Cards/46-M Добавить в проекты необходимую библиотеку для работы с кафкой.md",
-    "Cards/45-M Добавить кафку.md",
-    "Cards/44-M Добавить сервис на FastAPI в общий docker-compose файл.md",
-    "Cards/43-M Написать Dockerfile к микросервису на FastAPI.md",
     "library",
     "Cards",
     "Без названия/Django_4_v_primerakh.pdf",
     "Без названия/sql_primer.pdf",
     "Без названия/Django_4_v_primerakh 1.pdf",
-    "Django_4_v_primerakh.pdf",
-    "Без названия/02.mp3"
+    "Django_4_v_primerakh.pdf"
   ]
 }
