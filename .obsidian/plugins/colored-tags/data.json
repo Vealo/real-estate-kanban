@@ -1,0 +1,40 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "everyone": 1,
+    "tech": 2,
+    "DRF": 3,
+    "feature": 4,
+    "flat": 5,
+    "API": 6,
+    "swagger": 7,
+    "drf_spectacular": 8,
+    "FastAPI": 9,
+    "Docker": 10,
+    "Kafka": 11,
+    "Модель": 12,
+    "Django": 13,
+    "JSON": 14,
+    "XML": 15,
+    "Сериализатор": 16,
+    "http": 17,
+    "http/методы": 1,
+    "PUT": 18,
+    "GET": 19,
+    "POST": 20,
+    "PATCH": 21,
+    "DELETE": 22,
+    "Идемпотентность": 23,
+    "Безопастность": 24
+  },
+  "_version": 3
+}

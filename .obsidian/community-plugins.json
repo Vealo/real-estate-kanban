@@ -5,5 +5,7 @@
   "calendar",
   "obsidian-kanban",
   "code-emitter",
-  "obsidian-local-images-plus"
+  "obsidian-linter",
+  "tag-wrangler",
+  "colored-tags"
 ]
