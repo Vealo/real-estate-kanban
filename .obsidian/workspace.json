@@ -20,16 +20,16 @@
               "icon": "lucide-file",
               "title": "05-M Написать API для получения квартир"
             },
-            "group": "5e75b06277da5ff3"
+            "group": "36b08b67753c4db5"
           }
         ]
       },
       {
-        "id": "9188c088fff01fce",
+        "id": "d64d1528817f5588",
         "type": "tabs",
         "children": [
           {
-            "id": "49869ae2aa71d380",
+            "id": "9067c0e61ed45fb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -41,7 +41,7 @@
               "icon": "lucide-file",
               "title": "05-M Написать API для получения квартир"
             },
-            "group": "5e75b06277da5ff3"
+            "group": "36b08b67753c4db5"
           }
         ]
       }
@@ -205,7 +205,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,22 +222,23 @@
   },
   "active": "1e042c353ff23809",
   "lastOpenFiles": [
-    "Real-eastate-list.md",
+    "library/_attachments/Pasted image 20241017181148.png",
+    "Cards/05-M Написать API для получения квартир.md",
+    "library/Без названия",
     "Cards/04-M Добавить квартиры на сайт.md",
+    "Cards/03-M Добавить приложение realty. Подготовить архитектуру.md",
+    "HELP.md",
+    "Cards/02-М Добавить DRF в проект.md",
+    "Cards/01-M Создать проект.md",
+    "Real-eastate-list.md",
     "library/Вспомогательные материалы.md",
     "library/Виртуальное окружение.md",
     "Real-eastate-kanban.md",
     "library/Django/Django - Модель.md",
-    "Cards/03-M Добавить приложение realty. Подготовить архитектуру.md",
     "library/Django/Django - Пример реализации модели.md",
-    "HELP.md",
     "Cards/14-M Добавить админку для квартир.md",
     "library/Django",
-    "Cards/05-M Написать API для получения квартир.md",
-    "Cards/02-М Добавить DRF в проект.md",
-    "Cards/01-M Создать проект.md",
     "README.md",
-    "library/_attachments/Pasted image 20241017181148.png",
     "library/_attachments/Pasted image 20241017180943.png",
     "library/_attachments/Pasted image 20241017181104.png",
     "library/_attachments/Pasted image 20241017180740.png",
@@ -254,14 +256,12 @@
     "Cards/45-M Добавить кафку.md",
     "Cards/44-M Добавить сервис на FastAPI в общий docker-compose файл.md",
     "Cards/43-M Написать Dockerfile к микросервису на FastAPI.md",
-    "Cards/42-M Создать микросервис для взаимодействия с основным сервисом.md",
     "library",
     "Cards",
     "Без названия/Django_4_v_primerakh.pdf",
     "Без названия/sql_primer.pdf",
     "Без названия/Django_4_v_primerakh 1.pdf",
     "Django_4_v_primerakh.pdf",
-    "Без названия/02.mp3",
-    "Без названия/02 1.mp3"
+    "Без названия/02.mp3"
   ]
 }
