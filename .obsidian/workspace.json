@@ -13,50 +13,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Real-eastate-list.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Real-eastate-list"
-            },
-            "group": "26242b1c6f0b3e94"
-          },
-          {
-            "id": "52bcad771f84e459",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/03-M Добавить приложение realty. Подготовить архитектуру.md",
+                "file": "library/Django/Django - Модель.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "03-M Добавить приложение realty. Подготовить архитектуру"
-            }
+              "title": "Django - Модель"
+            },
+            "group": "5e75b06277da5ff3"
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "b69a3e11cc379767",
+        "id": "9188c088fff01fce",
         "type": "tabs",
         "children": [
           {
-            "id": "d259613dcb8c7647",
+            "id": "49869ae2aa71d380",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Real-eastate-list.md",
+                "file": "library/Django/Django - Модель.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Real-eastate-list"
+              "title": "Django - Модель"
             },
-            "group": "26242b1c6f0b3e94"
+            "group": "5e75b06277da5ff3"
           }
         ]
       }
@@ -175,10 +160,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/03-M Добавить приложение realty. Подготовить архитектуру.md"
+                "file": "library/Django/Django - Модель.md"
               },
               "icon": "lucide-list",
-              "title": "Структура 03-M Добавить приложение realty. Подготовить архитектуру"
+              "title": "Структура Django - Модель"
             }
           },
           {
@@ -220,8 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,16 +219,17 @@
       "obsidian-kanban:Создать новую доску": false
     }
   },
-  "active": "52bcad771f84e459",
+  "active": "1e042c353ff23809",
   "lastOpenFiles": [
+    "Cards/04-M Добавить квартиры на сайт.md",
     "Real-eastate-list.md",
+    "Cards/03-M Добавить приложение realty. Подготовить архитектуру.md",
     "Real-eastate-kanban.md",
     "library/Django/Django - Модель.md",
+    "library/Django/Django - Пример реализации модели.md",
     "HELP.md",
     "Cards/14-M Добавить админку для квартир.md",
     "library/Django",
-    "Cards/03-M Добавить приложение realty. Подготовить архитектуру.md",
-    "Cards/04-M Добавить квартиры на сайт.md",
     "Cards/05-M Написать API для получения квартир.md",
     "Cards/02-М Добавить DRF в проект.md",
     "Cards/01-M Создать проект.md",

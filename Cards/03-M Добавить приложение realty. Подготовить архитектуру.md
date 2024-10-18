@@ -30,7 +30,7 @@ app/
 ### 2) Реализуйте классы моделей
 ​	Вспомогательный материалы:  
 - [Django - Модель](../library/Django/Django%20-%20Модель.md)
-- 
+- [Django - Пример реализации модели](../library/Django/Django%20-%20Пример%20реализации%20модели.md)
 
 ## Требования к классам моделей:
 1) Подготовить архитектуру в соответствии с этими рекомендациями [https://github.com/HackSoftware/Django-Styleguide](https://github.com/HackSoftware/Django-Styleguide)
