@@ -28,6 +28,7 @@ app/
 		views.py
 ```
 2) Реализуйте классы моделей
+3) 
 
 ## Требования к классам моделей:
 1) Подготовить архитектуру в соответствии с этими рекомендациями [https://github.com/HackSoftware/Django-Styleguide](https://github.com/HackSoftware/Django-Styleguide)

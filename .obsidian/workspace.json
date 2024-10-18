@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Cards/03-M Добавить приложение realty. Подготовить архитектуру.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -200,12 +200,13 @@
   "active": "1e042c353ff23809",
   "lastOpenFiles": [
     "Real-eastate-list.md",
+    "Cards/05-M Написать API для получения квартир.md",
     "Cards/04-M Добавить квартиры на сайт.md",
+    "library/Модель.md",
+    "Real-eastate-kanban.md",
     "Cards/03-M Добавить приложение realty. Подготовить архитектуру.md",
     "Cards/02-М Добавить DRF в проект.md",
     "Cards/01-M Создать проект.md",
-    "Real-eastate-kanban.md",
-    "Cards/05-M Написать API для получения квартир.md",
     "README.md",
     "HELP.md",
     "library/_attachments/Pasted image 20241017181148.png",
@@ -231,7 +232,6 @@
     "Cards/41-M Написать makefile для форматтера и линтера.md",
     "Cards/40-M Добавить форматтер (black, isort).md",
     "Cards/39-M Добавить линтер (flake8).md",
-    "Cards/38-M Добавить возможность авторизоваться через код.md",
     "library",
     "Cards",
     "Без названия/Django_4_v_primerakh.pdf",
