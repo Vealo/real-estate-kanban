@@ -7,5 +7,6 @@
   "code-emitter",
   "obsidian-linter",
   "tag-wrangler",
-  "colored-tags"
+  "colored-tags",
+  "callout-manager"
 ]
