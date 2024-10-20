@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/02-М Добавить DRF в проект.md",
+                "file": "Cards/03-M Добавить приложение realty. Подготовить архитектуру.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "02-М Добавить DRF в проект"
+              "title": "03-M Добавить приложение realty. Подготовить архитектуру"
             },
             "group": "3fe0f64d0a8b76ec"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/02-М Добавить DRF в проект.md",
+                "file": "Cards/03-M Добавить приложение realty. Подготовить архитектуру.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "02-М Добавить DRF в проект"
+              "title": "03-M Добавить приложение realty. Подготовить архитектуру"
             },
             "group": "3fe0f64d0a8b76ec"
           }
@@ -133,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/02-М Добавить DRF в проект.md",
+                "file": "Cards/03-M Добавить приложение realty. Подготовить архитектуру.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из 02-М Добавить DRF в проект"
+              "title": "Исходящие ссылки из 03-M Добавить приложение realty. Подготовить архитектуру"
             }
           },
           {
@@ -160,10 +160,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/02-М Добавить DRF в проект.md"
+                "file": "Cards/03-M Добавить приложение realty. Подготовить архитектуру.md"
               },
               "icon": "lucide-list",
-              "title": "Структура 02-М Добавить DRF в проект"
+              "title": "Структура 03-M Добавить приложение realty. Подготовить архитектуру"
             }
           },
           {
@@ -224,9 +224,9 @@
   },
   "active": "f2d8c880a571c4a9",
   "lastOpenFiles": [
+    "Cards/02-М Добавить DRF в проект.md",
     "Cards/01-M Создать проект.md",
     "Real-eastate-list.md",
-    "Cards/02-М Добавить DRF в проект.md",
     "library/Django/Введение в веб-разработку/1.1~3 ТЕЛО HTTP.md",
     "library/Django/Введение в веб-разработку/_attachments/3d822c5286414e0938744a2e21f09caf_MD5.png",
     "library/Django/Введение в веб-разработку/_attachments/320d7ddd303c0129304e45fde7cbba12_MD5.png",
