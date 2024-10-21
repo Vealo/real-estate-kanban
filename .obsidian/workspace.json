@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/08-M Добавить API для получения информации по этажу.md",
-                "mode": "source",
+                "file": "library/Виртуальное окружение.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "08-M Добавить API для получения информации по этажу"
+              "title": "Виртуальное окружение"
             },
             "group": "3fe0f64d0a8b76ec"
           },
@@ -48,12 +48,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/08-M Добавить API для получения информации по этажу.md",
+                "file": "library/Виртуальное окружение.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "08-M Добавить API для получения информации по этажу"
+              "title": "Виртуальное окружение"
             },
             "group": "3fe0f64d0a8b76ec"
           }
@@ -113,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b7e48c17c7bf7dc0",
@@ -147,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/08-M Добавить API для получения информации по этажу.md",
+                "file": "library/Виртуальное окружение.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из 08-M Добавить API для получения информации по этажу"
+              "title": "Исходящие ссылки из Виртуальное окружение"
             }
           },
           {
@@ -174,10 +175,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/08-M Добавить API для получения информации по этажу.md"
+                "file": "library/Виртуальное окружение.md"
               },
               "icon": "lucide-list",
-              "title": "Структура 08-M Добавить API для получения информации по этажу"
+              "title": "Структура Виртуальное окружение"
             }
           },
           {
@@ -215,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -236,8 +237,9 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "f2d8c880a571c4a9",
+  "active": "fc33540ae66bcae0",
   "lastOpenFiles": [
+    "Cards/08-M Добавить API для получения информации по этажу.md",
     "Cards/07-M Добавить этажи.md",
     "Real-eastate-list.md",
     "Cards/04-M Добавить квартиры на сайт.md",
