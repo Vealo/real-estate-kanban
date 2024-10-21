@@ -13,16 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/06-M Добавить swagger.md",
+                "file": "Cards/07-M Добавить этажи.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "06-M Добавить swagger"
+              "title": "07-M Добавить этажи"
             },
             "group": "3fe0f64d0a8b76ec"
+          },
+          {
+            "id": "c8f05ce1cc3119f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Real-eastate-list.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Real-eastate-list"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1e1a2e2129802ec1",
@@ -34,12 +49,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/06-M Добавить swagger.md",
+                "file": "Cards/07-M Добавить этажи.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "06-M Добавить swagger"
+              "title": "07-M Добавить этажи"
             },
             "group": "3fe0f64d0a8b76ec"
           }
@@ -133,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/06-M Добавить swagger.md",
+                "file": "Real-eastate-list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из 06-M Добавить swagger"
+              "title": "Исходящие ссылки из Real-eastate-list"
             }
           },
           {
@@ -160,10 +175,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/06-M Добавить swagger.md"
+                "file": "Real-eastate-list.md"
               },
               "icon": "lucide-list",
-              "title": "Структура 06-M Добавить swagger"
+              "title": "Структура Real-eastate-list"
             }
           },
           {
@@ -222,8 +237,10 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "f2d8c880a571c4a9",
+  "active": "c8f05ce1cc3119f7",
   "lastOpenFiles": [
+    "Cards/07-M Добавить этажи.md",
+    "Cards/06-M Добавить swagger.md",
     "Cards/05-M Написать API для получения квартир.md",
     "Cards/04-M Добавить квартиры на сайт.md",
     "Cards/03-M Добавить приложение realty. Подготовить архитектуру.md",
@@ -251,8 +268,6 @@
     "library/Django/Django REST Framework.md",
     "library/_attachments/API.png",
     "library/_attachments/Pasted image 20241017181148.png",
-    "Cards/07-M Добавить этажи.md",
-    "Cards/06-M Добавить swagger.md",
     "library/Django/APIView.md",
     "library/Django/REST.md",
     "library/Django/Django - Пример реализации модели.md",
