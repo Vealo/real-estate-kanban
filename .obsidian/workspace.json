@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/03-M Добавить приложение realty. Подготовить архитектуру.md",
+                "file": "Cards/04-M Добавить квартиры на сайт.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "03-M Добавить приложение realty. Подготовить архитектуру"
+              "title": "04-M Добавить квартиры на сайт"
             },
             "group": "3fe0f64d0a8b76ec"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/03-M Добавить приложение realty. Подготовить архитектуру.md",
+                "file": "Cards/04-M Добавить квартиры на сайт.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "03-M Добавить приложение realty. Подготовить архитектуру"
+              "title": "04-M Добавить квартиры на сайт"
             },
             "group": "3fe0f64d0a8b76ec"
           }
@@ -133,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/03-M Добавить приложение realty. Подготовить архитектуру.md",
+                "file": "Cards/04-M Добавить квартиры на сайт.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из 03-M Добавить приложение realty. Подготовить архитектуру"
+              "title": "Исходящие ссылки из 04-M Добавить квартиры на сайт"
             }
           },
           {
@@ -160,10 +160,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/03-M Добавить приложение realty. Подготовить архитектуру.md"
+                "file": "Cards/04-M Добавить квартиры на сайт.md"
               },
               "icon": "lucide-list",
-              "title": "Структура 03-M Добавить приложение realty. Подготовить архитектуру"
+              "title": "Структура 04-M Добавить квартиры на сайт"
             }
           },
           {
@@ -224,6 +224,7 @@
   },
   "active": "f2d8c880a571c4a9",
   "lastOpenFiles": [
+    "Cards/03-M Добавить приложение realty. Подготовить архитектуру.md",
     "Cards/02-М Добавить DRF в проект.md",
     "Cards/01-M Создать проект.md",
     "Real-eastate-list.md",
@@ -257,7 +258,6 @@
     "library/Django/Django - Пример реализации модели.md",
     "library/Django/Django - Модель.md",
     "library/Django/_attachments",
-    "Cards/03-M Добавить приложение realty. Подготовить архитектуру.md",
     "library/Django/API.md",
     "library/Без названия",
     "HELP.md",
