@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/04-M Добавить квартиры на сайт.md",
+                "file": "Cards/06-M Добавить swagger.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "04-M Добавить квартиры на сайт"
+              "title": "06-M Добавить swagger"
             },
             "group": "3fe0f64d0a8b76ec"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/04-M Добавить квартиры на сайт.md",
+                "file": "Cards/06-M Добавить swagger.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "04-M Добавить квартиры на сайт"
+              "title": "06-M Добавить swagger"
             },
             "group": "3fe0f64d0a8b76ec"
           }
@@ -133,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/04-M Добавить квартиры на сайт.md",
+                "file": "Cards/06-M Добавить swagger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из 04-M Добавить квартиры на сайт"
+              "title": "Исходящие ссылки из 06-M Добавить swagger"
             }
           },
           {
@@ -160,10 +160,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/04-M Добавить квартиры на сайт.md"
+                "file": "Cards/06-M Добавить swagger.md"
               },
               "icon": "lucide-list",
-              "title": "Структура 04-M Добавить квартиры на сайт"
+              "title": "Структура 06-M Добавить swagger"
             }
           },
           {
@@ -224,6 +224,8 @@
   },
   "active": "f2d8c880a571c4a9",
   "lastOpenFiles": [
+    "Cards/05-M Написать API для получения квартир.md",
+    "Cards/04-M Добавить квартиры на сайт.md",
     "Cards/03-M Добавить приложение realty. Подготовить архитектуру.md",
     "Cards/02-М Добавить DRF в проект.md",
     "Cards/01-M Создать проект.md",
@@ -251,8 +253,6 @@
     "library/_attachments/Pasted image 20241017181148.png",
     "Cards/07-M Добавить этажи.md",
     "Cards/06-M Добавить swagger.md",
-    "Cards/04-M Добавить квартиры на сайт.md",
-    "Cards/05-M Написать API для получения квартир.md",
     "library/Django/APIView.md",
     "library/Django/REST.md",
     "library/Django/Django - Пример реализации модели.md",

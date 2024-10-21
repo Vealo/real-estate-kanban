@@ -1,12 +1,16 @@
 # M-6: Добавить swagger
 #everyone #tech #swagger #DRF #drf_spectacular
->## Задание:
->- Добавить swagger 
-## Требование:
-- Использовать drf_spectacular
-## Материалы:
-- [Django REST Framework](../library/Django/Django%20REST%20Framework.md)
-- [Что такое сериализатор в Django REST Framework?](../library/Django/Что%20такое%20сериализатор%20в%20Django%20REST%20Framework?.md)
+
+> [!TODO] Задание:
+> - Добавить swagger 
+> 
+> 	**Требование:**
+> - Использовать drf_spectacular
+
+> [!INFO]+ Материалы:
+> - [Django REST Framework](../library/Django/Django%20REST%20Framework.md)
+> - [Что такое сериализатор в Django REST Framework?](../library/Django/Что%20такое%20сериализатор%20в%20Django%20REST%20Framework?.md)
+
 ## Пример:
 ### 1\) Установим пакет `drf-spectacular` с помощью pip:
 ``` bush
