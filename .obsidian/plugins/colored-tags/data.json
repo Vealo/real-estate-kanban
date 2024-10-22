@@ -36,7 +36,9 @@
     "Идемпотентность": 23,
     "Безопастность": 24,
     "status": 25,
-    "status/TODO": 1
+    "status/TODO": 1,
+    "staTODO": 26,
+    "TODO": 27
   },
   "_version": 3
 }
