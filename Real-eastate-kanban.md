@@ -4,17 +4,20 @@ kanban-plugin: board
 
 ---
 
-## 
+## TODO
 
-- [ ] [01-M Создать проект](Cards/01-M%20Создать%20проект.md)
-- [ ] [02-М Добавить DRF в проект](Cards/02-М%20Добавить%20DRF%20в%20проект.md)
-- [ ] [03-M Добавить приложение realty. Подготовить архитектуру](Cards/03-M%20Добавить%20приложение%20realty.%20Подготовить%20архитектуру.md)
-- [ ] [04-M Добавить квартиры на сайт](Cards/04-M%20Добавить%20квартиры%20на%20сайт.md)
-- [ ] [05-M Написать API для получения квартир](Cards/05-M%20Написать%20API%20для%20получения%20квартир.md)
-- [ ] [06-M Добавить swagger](Cards/06-M%20Добавить%20swagger.md)
+```dataview
+list 
+from "Cards"
+where tag = "#status/TODO" 
+```
 
 
 ## In progress
+
+
+
+## In paused
 
 
 
@@ -26,6 +29,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
 ```
 %%

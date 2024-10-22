@@ -1,6 +1,6 @@
 # Список задач
 ``` dataview
-table 
+LIST
 from "Cards"
 sort Name
 ```
