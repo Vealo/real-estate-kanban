@@ -11,21 +11,14 @@
             "id": "b28150a5eb323174",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Real-eastate-kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Cards/09-M Добавить секцииазвания.md",
+                "mode": "preview",
+                "source": true
               },
-              "icon": "lucide-trello",
-              "title": "Real-eastate-kanban"
+              "icon": "lucide-file",
+              "title": "09-M Добавить секцииазвания"
             }
           }
         ]
@@ -208,13 +201,13 @@
   },
   "active": "b28150a5eb323174",
   "lastOpenFiles": [
-    "Cards/01-M Создать проект.md",
+    "Cards/08-M Добавить API для получения информации по этажу.md",
     "Real-eastate-kanban.md",
+    "Cards/01-M Создать проект.md",
     "Cards/52-M Добавить Celery.md",
     "status TODO.md",
     "Real-eastate-list.md",
     "Cards/07-M Добавить этажи.md",
-    "Cards/08-M Добавить API для получения информации по этажу.md",
     "library/Виртуальное окружение.md",
     "Cards/04-M Добавить квартиры на сайт.md",
     "Cards/06-M Добавить swagger.md",
