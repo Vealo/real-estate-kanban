@@ -233,7 +233,6 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Создать новую доску": false,
       "command-palette:Открыть палитру команд": false,
-      "dashboard-navigator:Open dashboard navigator": false,
       "callout-manager:Insert Callout": false
     }
   },
