@@ -94,15 +94,5 @@
       ],
       "states_dict": {}
     }
-  ],
-  "registedCmdName": [
-    "Task-Next",
-    "Task-Prev",
-    "Task Priority-Next",
-    "Task Priority-Prev",
-    "Call out-Next",
-    "Call out-Prev",
-    "Task + Callout-Next",
-    "Task + Callout-Prev"
   ]
 }

@@ -13,13 +13,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/09-M Добавить секцииазвания.md",
+                "file": "Cards/08-M Добавить API для получения информации по этажу.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "09-M Добавить секцииазвания"
-            }
+              "title": "08-M Добавить API для получения информации по этажу"
+            },
+            "group": "b5dcfd92a5d090b2"
+          }
+        ]
+      },
+      {
+        "id": "2b4f982f6b026aca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aed2e1df1dcaeb68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/08-M Добавить API для получения информации по этажу.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "08-M Добавить API для получения информации по этажу"
+            },
+            "group": "b5dcfd92a5d090b2"
           }
         ]
       }
@@ -52,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#status/TODO",
+                "query": "tag:#Модель",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +95,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -201,6 +224,8 @@
   },
   "active": "b28150a5eb323174",
   "lastOpenFiles": [
+    "library/Django/Django - Модель.md",
+    "Cards/09-M Добавить секцииазвания.md",
     "Cards/08-M Добавить API для получения информации по этажу.md",
     "Real-eastate-kanban.md",
     "Cards/01-M Создать проект.md",
@@ -237,8 +262,6 @@
     "library/_attachments/Pasted image 20241017181148.png",
     "library/Django/APIView.md",
     "library/Django/REST.md",
-    "library/Django/Django - Пример реализации модели.md",
-    "library/Django/Django - Модель.md",
     "library/Django/_attachments",
     "library/Без названия",
     "library/Django",
