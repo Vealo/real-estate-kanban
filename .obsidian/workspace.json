@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/08-M Добавить API для получения информации по этажу.md",
-                "mode": "preview",
+                "file": "Cards/09-M Добавить секцииазвания.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "08-M Добавить API для получения информации по этажу"
+              "title": "09-M Добавить секцииазвания"
             },
             "group": "b5dcfd92a5d090b2"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/08-M Добавить API для получения информации по этажу.md",
+                "file": "Cards/09-M Добавить секцииазвания.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "08-M Добавить API для получения информации по этажу"
+              "title": "09-M Добавить секцииазвания"
             },
             "group": "b5dcfd92a5d090b2"
           }
@@ -95,8 +95,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -206,7 +205,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 308.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,11 +222,11 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "b28150a5eb323174",
+  "active": "a9b752e1de7a72f8",
   "lastOpenFiles": [
+    "Cards/08-M Добавить API для получения информации по этажу.md",
     "library/Django/Django - Модель.md",
     "Cards/09-M Добавить секцииазвания.md",
-    "Cards/08-M Добавить API для получения информации по этажу.md",
     "Real-eastate-kanban.md",
     "Cards/01-M Создать проект.md",
     "Cards/52-M Добавить Celery.md",
