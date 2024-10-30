@@ -1,5 +1,7 @@
 {
   "theme": "moonstone",
   "cssTheme": "Typora-Vue",
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [],
+  "monospaceFontFamily": "Gost type b",
+  "interfaceFontFamily": "Circle"
 }
